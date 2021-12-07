@@ -1,0 +1,14 @@
+{
+  "resourceName": "finalProject",
+  "policyUUID": "074da700",
+  "bucketName": "final-project-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
